@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>291442386830-2gku3dsuv9r7g0a2uc28quhdg9igjuo9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.291442386830-2gku3dsuv9r7g0a2uc28quhdg9igjuo9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJyoYOnPW7b9kZF1LtVMFd3UhinUyOBEk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>291442386830</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.krish.clipio</string>
+	<key>PROJECT_ID</key>
+	<string>smart-clip-1fadb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-clip-1fadb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:291442386830:ios:a9f8478159c1c4505c66df</string>
+</dict>
+</plist>

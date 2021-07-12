@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "291442386830",
+    "project_id": "smart-clip-1fadb",
+    "storage_bucket": "smart-clip-1fadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291442386830:android:864de1965ac801d75c66df",
+        "android_client_info": {
+          "package_name": "com.krish.clipio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291442386830-regrqse868118qhuqpeoegmif6t034l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krish.clipio",
+            "certificate_hash": "4c5627d0f0c14f02865d79a0e475db0efddc93bd"
+          }
+        },
+        {
+          "client_id": "291442386830-k8o4j3ll77eldongsl5vkhcgj2ui9amb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2KJN7fYo0ORRMIVo0lYuxNhPCiU4bngY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291442386830-k8o4j3ll77eldongsl5vkhcgj2ui9amb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291442386830-2gku3dsuv9r7g0a2uc28quhdg9igjuo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krish.clipio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
