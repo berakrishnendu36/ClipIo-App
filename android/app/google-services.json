@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "291442386830",
+    "project_id": "smart-clip-1fadb",
+    "storage_bucket": "smart-clip-1fadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "mobilesdk_app_id",
+        "android_client_info": {
+          "package_name": "com.krish.clipio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "client_id",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krish.clipio",
+            "certificate_hash": "certificate_hash"
+          }
+        },
+        {
+          "client_id": "client_id",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "client_id",
+              "client_type": 3
+            },
+            {
+              "client_id": "client_id",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krish.clipio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
