@@ -53,7 +53,7 @@ This is the flutter application for the original web-app [ClipIo](https://github
 
 </div>
 
-## Check out the repo for the web app on how to send data to other devices.
+<h2><a href="https://github.com/berakrishnendu36/ClipIo">Check out the other repo for the web app on how to send data to other devices.</a></h2>
 
 ## Don't forget to drop a ⭐ if you like it!
 
