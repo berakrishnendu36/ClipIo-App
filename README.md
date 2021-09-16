@@ -1,6 +1,8 @@
 # ClipIo-App
 
-This is the flutter application for the original web-app [ClipIo](https://github.com/berakrishnendu36/ClipIo) with some added features.
+This is the flutter application for the original web-app [ClipIo](https://github.com/berakrishnendu36/ClipIo) with some added features.  
+
+[Download the app from here!](https://github.com/berakrishnendu36/ClipIo-App/releases/download/v1.01/app-release.apk)
 
 <br></br>
 
